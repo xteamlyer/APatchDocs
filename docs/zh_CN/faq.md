@@ -107,6 +107,8 @@ APatch 还可以使用 [ReZygisk](https://github.com/PerformanC/ReZygisk) 以实
 
 ::: info
 ReZygisk 仍处于早期开发阶段，欢迎各位向开发者提交 Pull request 或者就使用问题提交 issue 进行反馈。
+
+如果从上方链接下载的 ReZygisk 存在使用问题，你可以尝试使用这个版本的 [ReZygisk](https://github.com/Kasumi-Ushio/ReZygisk)。
 :::
 
 ## Root 检测软件无法通过？

@@ -105,8 +105,6 @@ APatch can also use the [ReZygisk](https://github.com/PerformanC/ReZygisk) to ad
 
 ::: info
 ReZygisk is still in early development. Feel free to submit Pull requests to the ReZygisk developers or open an issue for any usage issues.
-
-If you have occurred in using ReZygisk at above link, you can try this version of [ReZygisk](https://github.com/Kasumi-Ushio/ReZygisk).
 :::
 
 ## Can not pass the root-detecting application?
